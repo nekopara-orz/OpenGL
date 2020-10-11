@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FisrtOpenGL", "FisrtOpenGL\FisrtOpenGL.vcxproj", "{715803F9-EC28-4A98-8457-90672F8FD28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Debug|x64.ActiveCfg = Debug|x64
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Debug|x64.Build.0 = Debug|x64
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Debug|x86.ActiveCfg = Debug|Win32
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Debug|x86.Build.0 = Debug|Win32
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Release|x64.ActiveCfg = Release|x64
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Release|x64.Build.0 = Release|x64
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Release|x86.ActiveCfg = Release|Win32
+		{715803F9-EC28-4A98-8457-90672F8FD28B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A52B0B2-DA38-442C-B000-3B37A4218804}
+	EndGlobalSection
+EndGlobal
